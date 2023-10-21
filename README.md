@@ -17,10 +17,10 @@ npm create astro@latest -- --template eddyvinck/astro-engineering-blog
 Edit the values in `src/consts.ts` to match your brand or company:
 
 ```ts
-export const BRAND = "Acme";
-export const SITE_TITLE = "Acme Engineering";
-export const SITE_URL = "https://astro-engineering-blog.netlify.app";
-export const SITE_DESCRIPTION = "Welcome to the Acme Engineering blog!";
+export const BRAND = "Tresce Design Collective";
+export const SITE_TITLE = "TRESCE DC";
+export const SITE_URL = "tresce.co";
+export const SITE_DESCRIPTION = "Welcome to the Design & Engineering blog!";
 export const PAGINATION_POSTS_PER_PAGE = 5;
 ```
 
