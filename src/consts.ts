@@ -3,6 +3,6 @@
 
 export const BRAND = "Tresce Design Collective";
 export const SITE_TITLE = "Tresce DC";
-export const SITE_URL = "tresce.co";
+export const SITE_URL = "http://tresce.co";
 export const SITE_DESCRIPTION = "Welcome to our Engineering blog!";
 export const PAGINATION_POSTS_PER_PAGE = 5;
