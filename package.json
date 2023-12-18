@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "author": "Eddy Vinck",
+  "packageManager": "pnpm@6.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/EddyVinck/astro-engineering-blog.git"
