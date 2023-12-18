@@ -18,7 +18,7 @@ dependencies:
     specifier: ^3.0.2
     version: 3.0.2(solid-js@1.8.7)(vite@4.4.9)
   '@astrojs/tailwind':
-    specifier: ^5.0.2
+    specifier: ^5.0.3
     version: 5.0.3(astro@3.6.4)(tailwindcss@3.3.7)
   astro:
     specifier: ^3.5.5
@@ -225,7 +225,6 @@ packages:
       tailwindcss: 3.3.7
     transitivePeerDependencies:
       - ts-node
-    dev: false
 
   /@astrojs/telemetry@3.0.4:
     resolution: {integrity: sha512-A+0c7k/Xy293xx6odsYZuXiaHO0PL+bnDoXOc47sGDF5ffIKdKQGRPFl2NMlCF4L0NqN4Ynbgnaip+pPF0s7pQ==}
