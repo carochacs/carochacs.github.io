@@ -33,7 +33,7 @@ dependencies:
     specifier: ^1.8.7
     version: 1.8.7
   tailwindcss:
-    specifier: ^3.3.6
+    specifier: ^3.3.7
     version: 3.3.7
 
 devDependencies:
